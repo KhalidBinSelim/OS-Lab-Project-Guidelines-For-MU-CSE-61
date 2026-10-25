@@ -1,4 +1,4 @@
-# OS Lab Project Guide
+# OS Lab Project Guidelines For MU (CSE 61)
 
 > **Course:** Operating System Lab (CSE 322) · **Metropolitan University, Sylhet**
 > **Instructor:** Khalid, Lecturer, Dept. of CSE
