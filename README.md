@@ -1,7 +1,7 @@
 # OS Lab Project Guidelines For MU (CSE 61)
 
-> **Course:** Operating System Lab (CSE 322) · **Metropolitan University, Sylhet**
-> **Instructor:** Khalid, Lecturer, Dept. of CSE
+> **Course:** Operating System Lab (CSE 322) · **Metropolitan University, Sylhet** <br>
+> **Instructor:** Khalid, Lecturer, Dept. of CSE <br>
 
 This repository is your **complete handbook** for the OS Lab Project. There is no final exam for this lab. Instead, you will **build a project, submit it on GitHub, present it, and answer questions about every part of it.**
 
@@ -45,4 +45,4 @@ Read the folders **in numerical order**.
 3. Open an **Issue** in your own repo (good practice!).
 4. Ask during lab hours.
 
-**Good luck. Build small, build real, understand and explore!**
+**Build small, build real, understand and explore. Good luck!**
